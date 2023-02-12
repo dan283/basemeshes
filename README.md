@@ -1,2 +1,2 @@
 # basemeshes
-base meshes
+base meshes for blender
