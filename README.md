@@ -10,5 +10,7 @@ hand lowres -
 
 hand midres - 
 
-![Screenshot 2023-02-14 100852](https://user-images.githubusercontent.com/78473045/218576101-3eea09bb-4afa-42f0-97e5-9a72ee43b8f6.png)
+![Screenshot 2023-02-14 102554](https://user-images.githubusercontent.com/78473045/218578106-a75ab748-11fa-4352-a428-dcf6bc62a3b6.png)
+
+
 
