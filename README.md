@@ -12,5 +12,14 @@ hand midres -
 
 ![Screenshot 2023-02-14 102554](https://user-images.githubusercontent.com/78473045/218578106-a75ab748-11fa-4352-a428-dcf6bc62a3b6.png)
 
+foot lowres - 
+
+![Screenshot 2023-02-15 095401](https://user-images.githubusercontent.com/78473045/218864318-62ab34f0-1389-4d46-9d78-202671b051ae.png)
+
+foot midres - 
+
+![Screenshot 2023-02-15 095416](https://user-images.githubusercontent.com/78473045/218864293-de64dce1-6006-4967-92b3-cabe3c9a90a1.png)
+
+
 
 
