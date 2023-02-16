@@ -2,11 +2,12 @@
 
 neutral head lowres - 
 
-![Screenshot 2023-02-17 110521](https://user-images.githubusercontent.com/78473045/219498023-8da92385-3970-46a8-b201-2892d4991e0a.png)
+![Screenshot 2023-02-17 110538](https://user-images.githubusercontent.com/78473045/219498088-8b172178-6e36-41ed-a248-c82d345a0138.png)
+
 
 neurtal head midres - 
 
-![Screenshot 2023-02-17 110538](https://user-images.githubusercontent.com/78473045/219498088-8b172178-6e36-41ed-a248-c82d345a0138.png)
+![Screenshot 2023-02-17 110521](https://user-images.githubusercontent.com/78473045/219498023-8da92385-3970-46a8-b201-2892d4991e0a.png)
 
 teeth - 
 
