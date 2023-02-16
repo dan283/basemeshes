@@ -1,5 +1,13 @@
 # basemeshes for Blender
 
+neutral head lowres - 
+
+![Screenshot 2023-02-17 110521](https://user-images.githubusercontent.com/78473045/219498023-8da92385-3970-46a8-b201-2892d4991e0a.png)
+
+neurtal head midres - 
+
+![Screenshot 2023-02-17 110538](https://user-images.githubusercontent.com/78473045/219498088-8b172178-6e36-41ed-a248-c82d345a0138.png)
+
 teeth - 
 
 ![teeth](https://user-images.githubusercontent.com/78473045/218334471-c3ea352b-133d-47bf-b4ea-7acc3f0fe6b8.png)
