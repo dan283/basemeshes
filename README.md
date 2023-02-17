@@ -1,11 +1,18 @@
 # basemeshes for Blender
 
-neutral head lowres - 
+neutral head lowres (topology more practical for sculpting)- 
+
+![Screenshot 2023-02-17 164032](https://user-images.githubusercontent.com/78473045/219544107-e26784fb-311b-4041-b784-eead107cff18.png)
+
+neurtal head midres (topology more practical for sculpting)- 
+
+![Screenshot 2023-02-17 164009](https://user-images.githubusercontent.com/78473045/219544122-dbb17076-8e31-4808-a6af-7a8fa5a1bdf7.png)
+
+neutral head lowres (topology more practical for creating facial shapes)- 
 
 ![Screenshot 2023-02-17 110538](https://user-images.githubusercontent.com/78473045/219498088-8b172178-6e36-41ed-a248-c82d345a0138.png)
 
-
-neurtal head midres - 
+neurtal head midres (topology more practical for creating facial shapes)- 
 
 ![Screenshot 2023-02-17 110521](https://user-images.githubusercontent.com/78473045/219498023-8da92385-3970-46a8-b201-2892d4991e0a.png)
 
