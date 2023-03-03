@@ -1,8 +1,9 @@
 # basemeshes for Blender
 
-work in progress generic female - 
+generic female - 
 
-![concatinated_female0052green](https://user-images.githubusercontent.com/78473045/221098461-d853c920-1754-4ffd-8719-d3a1a2059317.png)
+![female_basemesh_v002](https://user-images.githubusercontent.com/78473045/222640905-4466b0c5-0690-42c3-acd2-eadd53f27c39.png)
+![female_basemesh_wf_v001](https://user-images.githubusercontent.com/78473045/222640909-5dedb5ad-ed7d-4a9f-a302-525dbb0b7ba3.png)
 
 neutral head lowres (topology more practical for sculpting)- 
 
