@@ -5,6 +5,10 @@ generic female -
 ![female_basemesh_v002](https://user-images.githubusercontent.com/78473045/222640905-4466b0c5-0690-42c3-acd2-eadd53f27c39.png)
 ![female_basemesh_wf_v001](https://user-images.githubusercontent.com/78473045/222640909-5dedb5ad-ed7d-4a9f-a302-525dbb0b7ba3.png)
 
+generic male - 
+![male_basemesh](https://github.com/dan283/basemeshes/assets/78473045/3a618540-7c40-4355-a09e-8ab6e806a09a)
+
+
 neutral head lowres (topology more practical for sculpting)- 
 
 ![Screenshot 2023-02-17 164032](https://user-images.githubusercontent.com/78473045/219544107-e26784fb-311b-4041-b784-eead107cff18.png)
