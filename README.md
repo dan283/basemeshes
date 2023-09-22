@@ -7,6 +7,7 @@ generic female -
 
 generic male - 
 ![male_basemesh](https://github.com/dan283/basemeshes/assets/78473045/3a618540-7c40-4355-a09e-8ab6e806a09a)
+![Screenshot 2023-09-22 151654](https://github.com/dan283/basemeshes/assets/78473045/7770a6ae-ca73-49c1-8eba-9cd088f12130)
 
 
 neutral head lowres (topology more practical for sculpting)- 
